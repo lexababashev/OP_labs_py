@@ -1,11 +1,11 @@
 print("задайте размеры кирпича")
-a = input()
-b = input()
-c = input()
+a = int(input("a="))
+b = int(input("b="))
+c = int(input("c="))
 
 print("задайте размеры прямоугольного отверстия")
-x = input()
-y = input()
+x = int(input("x="))
+y = int(input("y="))
 
 result = None
 
